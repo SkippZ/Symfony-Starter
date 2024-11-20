@@ -7,4 +7,4 @@
 - mariadb
 - node
 
-# To start the project run `docker compose up -d` and open `http://localhost:8080`
+To start the project run `docker compose up -d` and open `http://localhost:8080`
